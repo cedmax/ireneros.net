@@ -1,0 +1,41 @@
+{
+	"title": "Creations",
+	"creations": [
+		{
+			"class": "rosa",
+			"url": "/images/creations/rosa/1.jpg"
+		},
+		{
+			"class": "regina",
+			"url": "/images/creations/regina/1.jpg"
+		},
+		{
+			"class": "marcel",
+			"url": "/images/creations/marcel/1.jpg"
+		},
+		{
+			"class": "rosa",
+			"url": "/images/creations/rosa/2.jpg"
+		},
+		{
+			"class": "regina",
+			"url": "/images/creations/regina/2.jpg"
+		},
+		{
+			"class": "marcel",
+			"url": "/images/creations/marcel/2.jpg"
+		},
+		{
+			"class": "rosa",
+			"url": "/images/creations/rosa/3.jpg"
+		},
+		{
+			"class": "regina",
+			"url": "/images/creations/regina/3.jpg"
+		},
+		{
+			"class": "marcel",
+			"url": "/images/creations/marcel/3.jpg"
+		}
+	]
+}

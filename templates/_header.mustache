@@ -1,0 +1,23 @@
+<header class="sixteen columns">
+	{{#title}}<a href="/" id="logo">{{/title}}
+	{{^title}}<div id="logo">{{/title}}
+		<h1>{{site-title}}</h1>
+		<h2>{{tagline}}</h2>
+	{{#title}}</a>{{/title}}
+	{{^title}}</div>{{/title}}
+	<nav>
+		<ul>
+			{{#navbar}}
+				<li><a href="{{href}}">{{text}}</a></li>
+			{{/navbar}}
+		</ul>
+	</nav>
+	<hr />
+</header>
+
+{{^hideTitle}}
+	<div id="overview" class="sixteen columns">
+		<h3>{{#title}}{{title}}{{/title}}{{^title}}{{{quote}}}{{/title}}</h3>
+		<hr />
+	</div>
+{{/hideTitle}}

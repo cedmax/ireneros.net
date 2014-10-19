@@ -1,0 +1,46 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+	<head>
+		{{>head}}
+	</head>
+<body>
+
+<script type="text/javascript">
+	document.write("<div id='sitePreloader'><div id='preloaderImage'><img src='images/site_preloader.gif' alt='Preloader' /></div></div>");
+</script>
+
+<div class="container">
+	
+	{{>header}}
+	
+	<div class="sixteen columns">
+		<ul id="filters" class="option-set" data-option-key="filter">
+			<li><a href="#filter" data-filter="*" class="selected">All Creations</a></li>
+			<li><a href="#filter" data-filter=".rosa">Rosa</a></li>
+			<li><a href="#filter" data-filter=".marcel">Marcel</a></li>
+			<li><a href="#filter" data-filter=".regina">La regina della neve</a></li>
+		</ul>
+
+		<div id="creations" class="thirteen columns offset-by-four alpha omega">
+			{{#creations}}
+				<div class="project columns four {{class}}">
+					<div class="projectThumbnail">
+						<svg class="thumbnailMask"></svg>
+						<div class="projectThumbnailHover">
+							<h4>Visions</h4>
+							<h5>How I see things</h5>
+						</div>
+						
+						<img src="{{url}}" alt="Project 01" class="thumbnailImage" />
+					</div>
+				</div>
+			{{/creations}}
+		</div>
+	</div>
+	
+	{{>footer}}
+</body>
+</html>

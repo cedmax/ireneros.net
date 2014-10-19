@@ -1,0 +1,5 @@
+#overview h3 span {
+	font-size: 50%;
+}
+
+#filters {position: absolute;z-index: 24}
