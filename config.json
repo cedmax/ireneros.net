@@ -13,7 +13,8 @@
 			"/css/themes/type_21.css",
 			"/css/themes/color_01.css",
 			"/css/custom.css",
-			"/css/nanogallery/light/nanogallery_light.css"
+			"/css/nanogallery/light/nanogallery_light.css",
+			"/css/jquery.fancybox.css"
 		],
 		"/js/scripts.js": [
 			"/js/libs/modernizr.min.js",
