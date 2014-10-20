@@ -4,47 +4,65 @@
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
-			"url": "/images/creations/rosa/1.jpg"
+			"url": "/images/creations/rosa/1.jpg",
+			"thumb": "/images/creations/thumbs/rosa/1_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "La regina della Neve",
 			"group": "regina",
-			"url": "/images/creations/regina/1.jpg"
+			"url": "/images/creations/regina/1.jpg",
+			"thumb": "/images/creations/thumbs/regina/1_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "Marcel vol.1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/1.jpg"
+			"url": "/images/creations/marcel/1.jpg",
+			"thumb": "/images/creations/thumbs/marcel/1_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
-			"url": "/images/creations/rosa/2.jpg"
+			"url": "/images/creations/rosa/2.jpg",
+			"thumb": "/images/creations/thumbs/rosa/2_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "La regina della Neve",
 			"group": "regina",
-			"url": "/images/creations/regina/2.jpg"
+			"url": "/images/creations/regina/2.jpg",
+			"thumb": "/images/creations/thumbs/regina/2_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "Marcel vol.1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/2.jpg"
+			"url": "/images/creations/marcel/2.jpg",
+			"thumb": "/images/creations/thumbs/marcel/2_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
-			"url": "/images/creations/rosa/3.jpg"
+			"url": "/images/creations/rosa/3.jpg",
+			"thumb": "/images/creations/thumbs/rosa/3_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "La regina della Neve",
 			"group": "regina",
-			"url": "/images/creations/regina/3.jpg"
+			"url": "/images/creations/regina/3.jpg",
+			"thumb": "/images/creations/thumbs/regina/3_thumb.jpg",
+			"title": "Rosa"
 		},
 		{
 			"creation": "Marcel vol.1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/3.jpg"
+			"url": "http://vimeo.com/107247689",
+			"thumb": "/images/creations/thumbs/marcel/3_thumb.jpg",
+			"title": "Rosa"
 		}
 	]
 }

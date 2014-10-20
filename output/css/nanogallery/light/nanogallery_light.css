@@ -141,7 +141,7 @@
 /**************************************/
 /* NAVIGATION BREADCRUMB              */
 /**************************************/
-.nanoGalleryNavigationbarContainer[style] {
+.nanogallery_theme_light.nanoGalleryNavigationbarContainer[style] {
 	max-height: auto!important;
 }
 
@@ -333,8 +333,18 @@
 }
 
 .nanogallery_theme_light .nanoGalleryContainer .nanoGalleryThumbnailContainer  .labelImageTitle{
-	color:#eee;
-  left: 0px;
+	font-family: Georgia, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	font-size: 16px;
+	line-height: 1.2;
+	letter-spacing: -0.05em;
+	text-rendering: auto;
+	color: #fff;
+	position: absolute;
+	top: 40px;
+	left: 30px;
+
 	overflow:hidden;
 	/*text-shadow: #000000 1px 0px 0px, #000000 1px 1px 0px, #000000 1px -1px 0px, #000000 -1px 1px 0px, #000000 -1px 0px 0px, #000000 -1px -1px 0px, #000000 0px 1px 0px, #000000 0px -1px 0px;*/
 	vertical-align: middle;
@@ -365,12 +375,17 @@
 }
 
 .nanogallery_theme_light .nanoGalleryContainer .nanoGalleryThumbnailContainer  .labelFolderTitle{
-	color:#eee;
-  left: 0px;
-	overflow:hidden;
-	/*text-shadow: #000000 1px 0px 0px, #000000 1px 1px 0px, #000000 1px -1px 0px, #000000 -1px 1px 0px, #000000 -1px 0px 0px, #000000 -1px -1px 0px, #000000 0px 1px 0px, #000000 0px -1px 0px;*/
-	vertical-align: middle;
-	display: inline;
+	font-family: Georgia, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	font-size: 24px;
+	line-height: 1.2;
+	letter-spacing: -0.05em;
+	text-rendering: auto;
+	color: #fff;
+	position: absolute;
+	top: 40px;
+	left:30px;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;

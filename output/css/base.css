@@ -681,11 +681,11 @@ nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul 
 
 #overview h3, #overview a {
 	margin-right:15px;
-	white-space: pre
 }
 
 #overview h3 a {
 	text-decoration: none;
+	white-space: pre
 }
 
 .project {

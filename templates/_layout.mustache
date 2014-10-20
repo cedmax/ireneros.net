@@ -21,26 +21,17 @@
 		<hr />
 	</div>
 
-	<div class="project eight columns">
-		<div class="projectThumbnail">
-			<a href="/visions.html"  class="projectThumbnailHover">
-				<h4>Visions</h4>
-				<h5>How I see things</h5>
-			</a>
-			
-			<img src="/images/visions.jpg" alt="Visions" class="thumbnailImage" />
+	{{#sections}}
+		<div class="project eight columns">
+			<div class="projectThumbnail">
+				<a href="{{url}}" class="projectThumbnailHover">
+					<h4>{{title}}</h4>
+					<h5>{{description}}</h5>
+				</a>
+				<img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
+			</div>
 		</div>
-	</div>
-
-	<div class="project eight columns">
-		<div class="projectThumbnail">
-			<a href="/creations.html" class="projectThumbnailHover">
-				<h4>Creations</h4>
-				<h5>How you could see my things</h5>
-			</a>
-			<img src="/images/creations/marcel/3.jpg" alt="Creations" class="thumbnailImage" />
-		</div>
-	</div>
+	{{/sections}}
 	
 	{{>footer}}
 </body>

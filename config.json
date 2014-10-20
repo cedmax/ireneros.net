@@ -23,6 +23,7 @@
 			"/js/libs/jquery.isotope-2.0.1.min.js",
 			"/js/libs/jquery.fitvids.js",
 			"/js/libs/jquery.fancybox.js",
+			"/js/libs/jquery.fancybox.media.js",
 			"/js/libs/jquery.nanogallery-5.1.1.min.js",
 			"/js/script.js"
 		]	

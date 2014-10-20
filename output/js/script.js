@@ -88,7 +88,7 @@ $(window).load(function() {
       theme: 'light',
       thumbnailGutterWidth : 20,
       thumbnailGutterHeight : 20,
-      thumbnailLabel: { hideIcons: true, display: true, position: 'overImageOnMiddle', align: 'center', displayDescription:false },
+      thumbnailLabel: { hideIcons: true, display: true, position: 'overImageOnTop', align: 'left', displayDescription:false },
       i18n: {
       	breadcrumbHome: 'Visions'
       }
@@ -99,19 +99,12 @@ $(window).load(function() {
     		'prevEffect':'fade',
 			beforeShow: function () {
 				this.title = $(this.element).attr('title');
-				this.title = '<h4>' + this.title + '</h4>' + '<p>' + $(this.element).parent().find('img').attr('alt') + '</p>';
+				this.title = '<h4>' + $(this.element).parent().find('img').attr('alt') + '</h4>' + '<p>' + this.title + '</p>';
 			},
 			helpers : {
 				title : { type: 'inside' },
+				media : {}
 			}
 		});
-		
-	$('.fancybox-media').fancybox({
-		openEffect  : 'none',
-		closeEffect : 'none',
-		helpers : {
-			media : {}
-		}
-	});
   });
 
