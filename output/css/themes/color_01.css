@@ -10,7 +10,6 @@ www.typeandgrids.com
 #sitePreloader { background-color: #000000; } /* Preloader GIF created with http://preloaders.net */
 body { background-color: #ffffff; }
 /*body { background: url("../../images/backgrounds/bg_01.png") repeat; }*/
-.thumbnailMask { height: 100%; width: 100%; background-image: url("../../images/masks/ffffff_02.png"); background-size: 100% 100%; }
 header { border-color: #000000; }
 #logo h1, #logoDetailView h1 { color: #222222; }
 #logo h2, #logoDetailView h2 { color: #222222; }

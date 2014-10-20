@@ -16,27 +16,28 @@
 	
 	{{>header}}
 	
-	<div class="sixteen columns">
-		<ul id="filters" class="option-set" data-option-key="filter">
-			<li><a href="#filter" data-filter="*" class="selected">All Creations</a></li>
-			<li><a href="#filter" data-filter=".rosa">Rosa</a></li>
-			<li><a href="#filter" data-filter=".marcel">Marcel</a></li>
-			<li><a href="#filter" data-filter=".regina">La regina della neve</a></li>
-		</ul>
+	<div id="overview" data-option-key="filter" class="sixteen columns">
+		<h3><a href="#filter" data-filter="*" class="selected">{{{title}}}</a></h3>
+		<a href="#filter" data-filter=".rosa">Rosa</a>
+		<a href="#filter" data-filter=".marcel">Marcel</a>
+		<a href="#filter" data-filter=".regina">La regina della neve</a>
+		<hr />
+	</div>
 
-		<div id="creations" class="thirteen columns offset-by-four alpha omega">
+	
+	<div class="sixteen columns">
+		<div id="creations" class="sixteen columns">
 			{{#creations}}
-				<div class="project columns four {{class}}">
+				<a href="{{url}}" data-fancybox-group="gallery-{{group}}" title="{{creation}}" class="project fancybox columns five {{group}}">
 					<div class="projectThumbnail">
-						<svg class="thumbnailMask"></svg>
 						<div class="projectThumbnailHover">
-							<h4>Visions</h4>
-							<h5>How I see things</h5>
+							<h4>{{creation}}</h4>
+							<h5>{{title}}</h5>
 						</div>
 						
-						<img src="{{url}}" alt="Project 01" class="thumbnailImage" />
+						<img src="{{url}}" alt="{{title}}" class="thumbnailImage" />
 					</div>
-				</div>
+				</a>
 			{{/creations}}
 		</div>
 	</div>

@@ -62,7 +62,7 @@ $(window).load(function() {
 			queue: false
 		}
 	});
-	$('#filters').on( 'click', 'a', function(e) {
+	$('#overview').on( 'click', 'a', function(e) {
 		e.preventDefault();
 		var filterValue = $(this).attr('data-filter');
 		$container.isotope({ filter: filterValue });
@@ -75,6 +75,7 @@ $(window).load(function() {
       thumbnailHeight: 250,
       kind: 'flickr',
    	  userID: '127244759@N04',
+   	  blackList: 'movimenti digitali|Lo-fi bianco e nero|Lo-fi colori',
       colorScheme: 'none',
       locationHash: true,
       viewer: 'fancybox',
@@ -85,13 +86,32 @@ $(window).load(function() {
       galleryToolbarHideIcons: true,
       thumbnailHoverEffect: [{ name: 'labelAppear75', duration: 300 }],
       theme: 'light',
-      thumbnailGutterWidth : 0,
-      thumbnailGutterHeight : 0,
+      thumbnailGutterWidth : 20,
+      thumbnailGutterHeight : 20,
       thumbnailLabel: { hideIcons: true, display: true, position: 'overImageOnMiddle', align: 'center', displayDescription:false },
       i18n: {
       	breadcrumbHome: 'Visions'
       }
     });
-
+	$(".fancybox").fancybox({				
+			padding : 0,
+			'nextEffect':'fade', 
+    		'prevEffect':'fade',
+			beforeShow: function () {
+				this.title = $(this.element).attr('title');
+				this.title = '<h4>' + this.title + '</h4>' + '<p>' + $(this.element).parent().find('img').attr('alt') + '</p>';
+			},
+			helpers : {
+				title : { type: 'inside' },
+			}
+		});
+		
+	$('.fancybox-media').fancybox({
+		openEffect  : 'none',
+		closeEffect : 'none',
+		helpers : {
+			media : {}
+		}
+	});
   });
 

@@ -270,9 +270,9 @@
 	border: 1px solid #fff;
 	margin: 0px;
 	padding: 0px; /* 5 */
-	background-color: #000;
 	display: inline-block;
 	position: absolute;   /*relative;*/
+	border-radius: 5px;
 	box-sizing: content-box;
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;

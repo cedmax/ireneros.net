@@ -2,39 +2,48 @@
 	"title": "Creations",
 	"creations": [
 		{
-			"class": "rosa",
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
 			"url": "/images/creations/rosa/1.jpg"
 		},
 		{
-			"class": "regina",
+			"creation": "La regina della Neve",
+			"group": "regina",
 			"url": "/images/creations/regina/1.jpg"
 		},
 		{
-			"class": "marcel",
+			"creation": "Marcel vol.1",
+			"group": "marcel",
 			"url": "/images/creations/marcel/1.jpg"
 		},
 		{
-			"class": "rosa",
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
 			"url": "/images/creations/rosa/2.jpg"
 		},
 		{
-			"class": "regina",
+			"creation": "La regina della Neve",
+			"group": "regina",
 			"url": "/images/creations/regina/2.jpg"
 		},
 		{
-			"class": "marcel",
+			"creation": "Marcel vol.1",
+			"group": "marcel",
 			"url": "/images/creations/marcel/2.jpg"
 		},
 		{
-			"class": "rosa",
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
 			"url": "/images/creations/rosa/3.jpg"
 		},
 		{
-			"class": "regina",
+			"creation": "La regina della Neve",
+			"group": "regina",
 			"url": "/images/creations/regina/3.jpg"
 		},
 		{
-			"class": "marcel",
+			"creation": "Marcel vol.1",
+			"group": "marcel",
 			"url": "/images/creations/marcel/3.jpg"
 		}
 	]

@@ -14,7 +14,7 @@
 			"/css/themes/color_01.css",
 			"/css/custom.css",
 			"/css/nanogallery/light/nanogallery_light.css",
-			"/css/jquery.fancybox.css"
+			"/css/fancybox/jquery.fancybox.css"
 		],
 		"/js/scripts.js": [
 			"/js/libs/modernizr.min.js",
