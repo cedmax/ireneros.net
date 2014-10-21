@@ -97,6 +97,7 @@ $(window).load(function() {
       colorScheme: 'none',
       locationHash: true,
       viewer: 'fancybox',
+      albumSorting: 'random',
       viewerToolbar: {
       	style: 'fullWidth',
       	autoMinimize:15000
