@@ -1,0 +1,4 @@
+[Ursa Maior](http://umteatro.it) is a professional theatre group that has been creating since 2002. Ursa Maior experiments.
+It weaves new languages and new forms of expression to a strong aesthetics: it experiments new relations between space and word, between words and body.
+
+Over the years Ursa Maior projects have been supported in the years by the National Agency of the European Union, the Committee for Equal Opportunities of Padua University, Fondazione del Monte di Bologna e Ravenna, Coop Adriatica, Rosa Luxemburg Foundation of Berlino, Women Centre of Bologna, Bologna Bookfair for children, Italian Cultural Institute of London.

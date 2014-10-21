@@ -14,29 +14,32 @@
 	
 	{{>header}}
 	
-	<div id="overview" class="sixteen columns">
-		<h3>{{{title}}}</h3>
-		<hr />
-	</div>
-
-	<div class="eight columns">
-		<div class="add-bottom">
-			<h4>In brief</h4>
+		<div id="overview" class="sixteen columns">
+			<h3>{{{title}}}</h3>
 			{{{me}}}
+			<hr />
 		</div>
 
-		<img class="scale-with-grid add-bottom" src="/images/irene.jpg" />
+		<div class="eight columns">
+			
+			<img class="scale-with-grid add-bottom" src="/images/irene.jpg" />
 
-		<div class="add-bottom">
-			<h4>Theatre</h4>
-			{{{theatre}}}
+			<div class="add-bottom">
+				<h4>Theatre</h4>
+				{{{theatre}}}
+			</div>
+
+			<div>
+				<h4>Ursa Maior Teatro</h4>
+				{{{umteatro}}}
+			</div>
 		</div>
-	</div>
 
-	<div class="eight columns">
-		<h4>Biography</h4>
-		{{{cv}}}
-	</div>
+		<div class="eight columns">
+			<h4>Biography</h4>
+			{{{cv}}}
+		</div>
+
 	
 	{{>footer}}
 </body>
