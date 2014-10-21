@@ -88,6 +88,12 @@ $(window).load(function() {
 });
 
  $(document).ready(function () {
+ 	$('header nav ul').append($(
+ 		'<li><a class="email" href="mail' + 'to:irene' + '@ir' + 'eneros.net"><img alt="Contact me" src="data:image/gif;base64,R0lGODlhEAALANUAAPT09KCgoKqqqq+vr7CwsKurq/Pz86Ghofj4+KOjo6mpqfb29vn5+ZiYmPDw8JeXl/Hx8Z2dnbW1tZubm66urp+fn7e3t7GxsfX19aysrJ6enurq6qioqK2traenp/v7+6ampvf396Kiovr6+v39/f7+/vz8/KSkpKWlpf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAQAAsAAAaIQEKDgBJ1PMWCJ3HwRCiBAiaFSJVMH6wpFSJoTilRKkUak60lVKpyAqQUoa2DTDKdSKED2C0olcZlYiMpAidbVSglH2NgBn8TJyUjJgMmYpYlHoMjIHdhJlsgIGQfFykjJycLASluDAZWKRAlowknEiEkDKdnG6cLGSgWKMQoJ8UKAgEcAw8DQQA7" /></a></li>'
+ 	))
+ 	
+
+
     $("#visions").nanoGallery({
       thumbnailWidth: 'auto',
       thumbnailHeight: 250,

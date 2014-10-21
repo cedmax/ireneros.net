@@ -19,6 +19,10 @@
 	#filters {position: relative}
 }
 
+.email {
+	vertical-align:middle
+}
+
 .font-icon-arrow-simple-left, .font-icon-arrow-simple-right, .font-icon-remove {
 	font-family: 'Icons';
 	speak: none;
