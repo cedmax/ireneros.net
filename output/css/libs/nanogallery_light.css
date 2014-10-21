@@ -38,13 +38,11 @@
 }
 
 
-.nanogallery_theme_light.nanoGalleryNavigationbarContainer[style] {
-	max-height: auto!important;
+.nanogallery_theme_light.nanoGalleryNavigationbarContainer {
+	margin-top:-8px;
 }
 
 .nanogallery_theme_light .nanoGalleryBreadcrumb {
-	
-	
 	margin: 1px;
 	text-align: left;
 	box-sizing: content-box;
@@ -54,7 +52,7 @@
 	display: table-cell;
 	width: 100%;
 	overflow:hidden;
-	padding-bottom:23px;
+	padding-bottom:33px;
 }
 
 .nanogallery_theme_light .nanoGalleryBreadcrumb .folderHome {
