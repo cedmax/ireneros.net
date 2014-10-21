@@ -118,7 +118,7 @@ $(window).load(function() {
     		'prevEffect':'fade',
 			beforeShow: function () {
 				this.title = $(this.element).attr('title');
-				this.title = '<h4>' + $(this.element).parent().find('img').attr('alt') + '</h4>' + '<p>' + this.title + '</p>';
+				this.title = '<h4>' + $(this.element).find('img').attr('alt') + '</h4>' + '<p>' + this.title + '</p>';
 			},
 			helpers : {
 				title : { type: 'inside' },

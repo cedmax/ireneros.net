@@ -15,7 +15,6 @@
 			"thumb": "/images/creations/thumbs/regina/inizio_gioco.jpg",
 			"title": "Inizio Gioco"
 		},
-		
 		{
 			"creation": "Quella Luce Blu",
 			"group": "curie",
@@ -33,9 +32,9 @@
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
-			"url": "/images/creations/rosa/rottura.jpg",
+			"url": "https://vimeo.com/16336939",
 			"thumb": "/images/creations/thumbs/rosa/rottura.jpg",
-			"title": "Rottura"
+			"title": "Video"
 		},
 		{
 			"creation": "Quella Luce Blu",
@@ -54,25 +53,17 @@
 		{
 			"creation": "Quella Luce Blu",
 			"group": "curie",
-			"url": "/images/creations/curie/lettere.jpg",
+			"url": "https://vimeo.com/34330423",
 			"thumb": "/images/creations/thumbs/curie/lettere.jpg",
-			"title": "Lettere"
+			"title": "Video"
 		},
-		
-{
+		{
 			"creation": "La regina della neve",
 			"group": "regina",
-			"url": "/images/creations/regina/bosco.jpg",
+			"url": "https://vimeo.com/38395704",
 			"thumb": "/images/creations/thumbs/regina/bosco.jpg",
-			"title": "Bosco"
+			"title": "Video"
 		},
-
-
-
-
-
-
-
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
@@ -80,7 +71,6 @@
 			"thumb": "/images/creations/thumbs/marcel/newspapers.jpg",
 			"title": "Newspapers"
 		},
-		
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
@@ -102,7 +92,6 @@
 			"thumb": "/images/creations/thumbs/marcel/army.jpg",
 			"title": "Army"
 		},
-		
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
@@ -110,9 +99,6 @@
 			"thumb": "/images/creations/thumbs/rosa/papere.jpg",
 			"title": "Papere"
 		},
-		
-
-
 		{
 			"creation": "Quella Luce Blu",
 			"group": "curie",
@@ -120,7 +106,6 @@
 			"thumb": "/images/creations/thumbs/curie/hiroshima.jpg",
 			"title": "Hiroshima"
 		},
-		
 		{
 			"creation": "Quella Luce Blu",
 			"group": "curie",
@@ -135,20 +120,13 @@
 			"thumb": "/images/creations/thumbs/rosa/causa_operaia.jpg",
 			"title": "Causa Operaia"
 		},
-		
-{
+		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
 			"url": "/images/creations/rosa/leipziger_volkzeitung.jpg",
 			"thumb": "/images/creations/thumbs/rosa/leipziger_volkzeitung.jpg",
 			"title": "Leipziger Volkzeitung"
 		},
-
-
-
-
-
-		
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
@@ -159,15 +137,9 @@
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/grosz.jpg",
+			"url": "https://vimeo.com/107247689",
 			"thumb": "/images/creations/thumbs/marcel/grosz.jpg",
-			"title": "Grosz"
+			"title": "Video"
 		}
-		
-		
-		
-		
-		
-		
 	]
 }
