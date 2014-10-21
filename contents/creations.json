@@ -140,6 +140,34 @@
 			"url": "https://vimeo.com/107247689",
 			"thumb": "/images/creations/thumbs/marcel/grosz.jpg",
 			"title": "Video"
+		},
+		{
+			"creation": "Marcel vol. 1",
+			"group": "marcel",
+			"url": "/images/creations/marcel/rev.jpg",
+			"thumb": "/images/creations/thumbs/marcel/rev.jpg",
+			"title": "Review"
+		},
+		{
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
+			"url": "/images/creations/rosa/rev.jpg",
+			"thumb": "/images/creations/thumbs/rosa/rev.jpg",
+			"title": "Review"
+		},
+		{
+			"creation": "La regina della neve",
+			"group": "regina",
+			"url": "/images/creations/regina/rev.jpg",
+			"thumb": "/images/creations/thumbs/regina/rev.jpg",
+			"title": "Review"
+		},
+		{
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/rev.jpg",
+			"thumb": "/images/creations/thumbs/curie/rev.jpg",
+			"title": "Review"
 		}
 	]
 }
