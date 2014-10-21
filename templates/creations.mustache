@@ -18,28 +18,27 @@
 	
 	<div id="overview" data-option-key="filter" class="sixteen columns">
 		<h3><a href="#filter" data-filter="*" class="selected">{{{title}}}</a></h3>
-		<a href="#filter" data-filter=".rosa">Rosa</a>
-		<a href="#filter" data-filter=".marcel">Marcel</a>
+		<a href="#filter" data-filter=".rosa">Il Sogno di Rosa</a>
+		<a href="#filter" data-filter=".marcel">Marcel vol. 1</a>
 		<a href="#filter" data-filter=".regina">La regina della neve</a>
+		<a href="#filter" data-filter=".curie">Quella luce blu</a>
 		<hr />
 	</div>
 
 	
-	<div class="sixteen columns">
-		<div id="creations" class="sixteen columns">
-			{{#creations}}
-				<a href="{{url}}" data-fancybox-group="gallery-{{group}}" title="{{creation}}" class="project fancybox columns five {{group}}">
-					<div class="projectThumbnail">
-						<div class="projectThumbnailHover">
-							<h4>{{creation}}</h4>
-							<h5>{{title}}</h5>
-						</div>
-						
-						<img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
+	<div id="creations" class="sixteen columns">
+		{{#creations}}
+			<a href="{{url}}" data-fancybox-group="gallery-{{group}}" title="{{creation}}" class="project fancybox column one-third {{group}}">
+				<div class="projectThumbnail">
+					<div class="projectThumbnailHover">
+						<h4>{{creation}}</h4>
+						<h5>{{title}}</h5>
 					</div>
-				</a>
-			{{/creations}}
-		</div>
+					
+					<img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
+				</div>
+			</a>
+		{{/creations}}
 	</div>
 	
 	{{>footer}}

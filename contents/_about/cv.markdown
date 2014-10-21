@@ -1,7 +1,7 @@
-I started studying theatre at the University of Bologna, but during the first year, attending the course “Creativity and Indipendence in Performing Arts” by Pontedera Foundation, I discovered that Bologna was not the center of the world.
+[I](http://uk.linkedin.com/in/irenegk) started studying theatre at the University of Bologna, but during the first year, attending the course “Creativity and Indipendence in Performing Arts” by Pontedera Foundation, I discovered that Bologna was not the center of the world.
 
 That’s why I left for Holstebro (DK): I wanted to get inspired by Odin Teatret. 
-After a stoge dinner, I dreamt about Hansel e Gretel’s witch house and I produced my first performance for children as Ursa Maior* (co-operating with Teatro Ridotto di Lavino di Mezzo - BO).
+After a stoge dinner, I dreamt about Hansel e Gretel’s witch house and I produced my first performance for children as Ursa Maior[*](#note) (co-operating with Teatro Ridotto di Lavino di Mezzo - BO).
 
 I kept choosing my Masters and I ended up in Lithuania, where I observed Eimuntas Nekrošius’s work and wrote my degrees thesis: “L’Attualità della polvere: Cechov nel teatro di Nekrošius” (The actuality of dust: Cechov in Nekrošius’ theatre).
 
@@ -18,6 +18,4 @@ Rosa’s Dream is what I consider my milestone: my bar was raised to a new stand
 That’s why in the Autumn of 2011 ‘That Blue light’, a piece on the life of Madame Curie, got a lifting.
 In March 2012, postponed due to snow storm, ‘The snow queen-I don’t need you’ made its debut.
 
-Something more serious [here](http://uk.linkedin.com/in/irenegk)
-
-* [Ursa Maior](http://umteatro.it) projects have been supported in the years by the National Agency of the European Union, the Committee for Equal Opportunities of Padua University, Fondazione del Monte di Bologna e Ravenna, Coop Adriatica, Rosa Luxemburg Foundation of Berlino, Women Centre of Bologna, Bologna Bookfair for children.
+<a name="note">*</a> [Ursa Maior](http://umteatro.it) projects have been supported in the years by the National Agency of the European Union, the Committee for Equal Opportunities of Padua University, Fondazione del Monte di Bologna e Ravenna, Coop Adriatica, Rosa Luxemburg Foundation of Berlino, Women Centre of Bologna, Bologna Bookfair for children.

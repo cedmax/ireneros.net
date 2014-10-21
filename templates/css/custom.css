@@ -56,3 +56,8 @@
 #creations .projectThumbnailHover h5 {
 	font-size: 15px;
 }
+
+a[name=note]{
+	text-decoration: none;
+	cursor: default
+}

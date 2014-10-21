@@ -3,13 +3,13 @@
 	"sections": [
 		{
 			"url": "/visions.html",
-			"thumb": "/images/visions.jpg",
+			"thumb": "/images/_visions.jpg",
 			"title": "Visions",
 			"description": "How I see things"
 		},
 		{
 			"url": "/creations.html",
-			"thumb": "/images/creations/marcel/3.jpg",
+			"thumb": "/images/_creations.jpg",
 			"title": "Creations",
 			"description": "How you could see my things"
 		}

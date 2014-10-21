@@ -2,67 +2,172 @@
 	"title": "Creations",
 	"creations": [
 		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/1.jpg",
-			"thumb": "/images/creations/thumbs/rosa/1_thumb.jpg",
-			"title": "Rosa"
-		},
-		{
-			"creation": "La regina della Neve",
-			"group": "regina",
-			"url": "/images/creations/regina/1.jpg",
-			"thumb": "/images/creations/thumbs/regina/1_thumb.jpg",
-			"title": "Rosa"
-		},
-		{
-			"creation": "Marcel vol.1",
+			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/1.jpg",
-			"thumb": "/images/creations/thumbs/marcel/1_thumb.jpg",
-			"title": "Rosa"
+			"url": "/images/creations/marcel/machine.jpg",
+			"thumb": "/images/creations/thumbs/marcel/machine.jpg",
+			"title": "Machine"
 		},
 		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/2.jpg",
-			"thumb": "/images/creations/thumbs/rosa/2_thumb.jpg",
-			"title": "Rosa"
-		},
-		{
-			"creation": "La regina della Neve",
+			"creation": "La regina della neve",
 			"group": "regina",
-			"url": "/images/creations/regina/2.jpg",
-			"thumb": "/images/creations/thumbs/regina/2_thumb.jpg",
-			"title": "Rosa"
+			"url": "/images/creations/regina/inizio_gioco.jpg",
+			"thumb": "/images/creations/thumbs/regina/inizio_gioco.jpg",
+			"title": "Inizio Gioco"
+		},
+		
+		{
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/carrozza.jpg",
+			"thumb": "/images/creations/thumbs/curie/carrozza.jpg",
+			"title": "Carrozza"
 		},
 		{
-			"creation": "Marcel vol.1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/2.jpg",
-			"thumb": "/images/creations/thumbs/marcel/2_thumb.jpg",
-			"title": "Rosa"
+			"creation": "La regina della neve",
+			"group": "regina",
+			"url": "/images/creations/regina/corvo.jpg",
+			"thumb": "/images/creations/thumbs/regina/corvo.jpg",
+			"title": "Corvo"
 		},
 		{
 			"creation": "Il Sogno di Rosa",
 			"group": "rosa",
-			"url": "/images/creations/rosa/3.jpg",
-			"thumb": "/images/creations/thumbs/rosa/3_thumb.jpg",
-			"title": "Rosa"
+			"url": "/images/creations/rosa/rottura.jpg",
+			"thumb": "/images/creations/thumbs/rosa/rottura.jpg",
+			"title": "Rottura"
 		},
 		{
-			"creation": "La regina della Neve",
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/x.jpg",
+			"thumb": "/images/creations/thumbs/curie/x.jpg",
+			"title": "X"
+		},
+		{
+			"creation": "La regina della neve",
 			"group": "regina",
-			"url": "/images/creations/regina/3.jpg",
-			"thumb": "/images/creations/thumbs/regina/3_thumb.jpg",
-			"title": "Rosa"
+			"url": "/images/creations/regina/DL.jpg",
+			"thumb": "/images/creations/thumbs/regina/DL.jpg",
+			"title": "Donna Lapponia"
 		},
 		{
-			"creation": "Marcel vol.1",
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/lettere.jpg",
+			"thumb": "/images/creations/thumbs/curie/lettere.jpg",
+			"title": "Lettere"
+		},
+		
+{
+			"creation": "La regina della neve",
+			"group": "regina",
+			"url": "/images/creations/regina/bosco.jpg",
+			"thumb": "/images/creations/thumbs/regina/bosco.jpg",
+			"title": "Bosco"
+		},
+
+
+
+
+
+
+
+		{
+			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "http://vimeo.com/107247689",
-			"thumb": "/images/creations/thumbs/marcel/3_thumb.jpg",
-			"title": "Rosa"
+			"url": "/images/creations/marcel/newspapers.jpg",
+			"thumb": "/images/creations/thumbs/marcel/newspapers.jpg",
+			"title": "Newspapers"
+		},
+		
+		{
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
+			"url": "/images/creations/rosa/statura.jpg",
+			"thumb": "/images/creations/thumbs/rosa/statura.jpg",
+			"title": "Statura"
+		},
+		{
+			"creation": "Marcel vol. 1",
+			"group": "marcel",
+			"url": "/images/creations/marcel/beauty_salon.jpg",
+			"thumb": "/images/creations/thumbs/marcel/beauty_salon.jpg",
+			"title": "Beauty Salon"
+		},
+		{
+			"creation": "Marcel vol. 1",
+			"group": "marcel",
+			"url": "/images/creations/curie/army.jpg",
+			"thumb": "/images/creations/thumbs/marcel/army.jpg",
+			"title": "Army"
+		},
+		
+		{
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
+			"url": "/images/creations/rosa/papere.jpg",
+			"thumb": "/images/creations/thumbs/rosa/papere.jpg",
+			"title": "Papere"
+		},
+		
+
+
+		{
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/hiroshima.jpg",
+			"thumb": "/images/creations/thumbs/curie/hiroshima.jpg",
+			"title": "Hiroshima"
+		},
+		
+		{
+			"creation": "Quella Luce Blu",
+			"group": "curie",
+			"url": "/images/creations/curie/pierre.jpg",
+			"thumb": "/images/creations/thumbs/curie/pierre.jpg",
+			"title": "Pierre"
+		},
+		{
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
+			"url": "/images/creations/rosa/causa_operaia.jpg",
+			"thumb": "/images/creations/thumbs/rosa/causa_operaia.jpg",
+			"title": "Causa Operaia"
+		},
+		
+{
+			"creation": "Il Sogno di Rosa",
+			"group": "rosa",
+			"url": "/images/creations/rosa/leipziger_volkzeitung.jpg",
+			"thumb": "/images/creations/thumbs/rosa/leipziger_volkzeitung.jpg",
+			"title": "Leipziger Volkzeitung"
+		},
+
+
+
+
+
+		
+		{
+			"creation": "Marcel vol. 1",
+			"group": "marcel",
+			"url": "/images/creations/marcel/general.jpg",
+			"thumb": "/images/creations/thumbs/marcel/general.jpg",
+			"title": "General"
+		},
+		{
+			"creation": "Marcel vol. 1",
+			"group": "marcel",
+			"url": "/images/creations/marcel/grosz.jpg",
+			"thumb": "/images/creations/thumbs/marcel/grosz.jpg",
+			"title": "Grosz"
 		}
+		
+		
+		
+		
+		
+		
 	]
 }

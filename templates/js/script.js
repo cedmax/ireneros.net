@@ -54,18 +54,36 @@ $(window).load(function() {
 	$(".container").delay(700).fadeIn(500);
 	$container = $("#creations").isotope({
 		animationEngine: 'jquery',
+		sortBy: 'random',
 		itemSelector : '.project',
-		layoutMode: "masonry",
+		layoutMode: 'masonry',
 		animationOptions: {
 			duration: 500,
 			easing: 'easeOutQuad',
 			queue: false
 		}
 	});
+
+	function hashCheck(){
+		var hash = window.location.hash.substring(1).replace(/creation\/all/, '*').replace(/creation\//, '')
+	
+		if (hash) {
+		    $container.isotope({
+		        filter: (hash=="*")?hash:'.' + hash
+		    });
+		}
+	}
+	
+
+	window.onhashchange = hashCheck;
+
+	hashCheck();
+
 	$('#overview').on( 'click', 'a', function(e) {
 		e.preventDefault();
 		var filterValue = $(this).attr('data-filter');
 		$container.isotope({ filter: filterValue });
+		window.location.hash = 'creation/' + filterValue.replace('*', 'all').replace('.', '');
 	});
 });
 
@@ -86,7 +104,7 @@ $(window).load(function() {
       galleryToolbarHideIcons: true,
       thumbnailHoverEffect: [{ name: 'labelAppear75', duration: 300 }],
       theme: 'light',
-      thumbnailGutterWidth : 20,
+      thumbnailGutterWidth : 0,
       thumbnailGutterHeight : 20,
       thumbnailLabel: { hideIcons: true, display: true, position: 'overImageOnTop', align: 'left', displayDescription:false },
       i18n: {
