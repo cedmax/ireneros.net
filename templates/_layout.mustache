@@ -14,10 +14,6 @@
 	
 	{{>header}}
 		
-	<div id="overview" class="sixteen columns">
-		<h3>{{{quote}}}</h3>
-		<hr />
-	</div>
 
 	{{#sections}}
 		<a href="{{url}}" class="project eight columns">
@@ -30,6 +26,12 @@
 			</div>
 		</a>
 	{{/sections}}
+
+	<hr />
+	
+	<div id="overview" class="sixteen columns">
+		<h3>{{{quote}}}</h3>
+	</div>
 	
 	{{>footer}}
 </body>
