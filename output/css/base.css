@@ -70,7 +70,7 @@ Contents
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
-		
+
 		-webkit-transition: background-color 0.8s ease-out;
 		-moz-transition: background-color 0.8s ease-out;
 		-o-transition: background-color 0.8s ease-out;
@@ -504,20 +504,20 @@ Contents
 /*===================================================================================================
 15) Portfolio slider
 ===================================================================================================*/
-	
+
 	/* Customization */
 	.projectThumbnail {
-		cursor: pointer;	
+		cursor: pointer;
 	}
-	
+
 	.project img.thumbnailImage {
 		max-width: 100%;
 		height: auto;
 		cursor: pointer;
 		border-radius: 5px;
 	}
-	
-	
+
+
 /*===================================================================================================
 16) Site styles
 ===================================================================================================*/
@@ -535,24 +535,6 @@ h6 { font-size: 12px; line-height: 1.2; }
 
 button.currentPage:hover {
 	cursor: auto;
-}
-
-#sitePreloader {
-	position: fixed;
-	top: 0;
-	left: 0;
-	right:0;
-	bottom: 0;
-	background-color: #000;
-	z-index: 25;
-}
-
-#preloaderImage {
-	top: 50%;
-	position: absolute;
-	left: 50%;
-	margin: -15px 0px 0px -15px;
-	width: 30px;
 }
 
 header {
@@ -655,7 +637,7 @@ nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul 
 }
 
 #overview {
-	padding-bottom: 10px;	
+	padding-bottom: 10px;
 }
 
 #overview h3, .folderHome {
@@ -668,7 +650,7 @@ nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul 
 	text-rendering: auto;
 	color: #333;
 	margin-top: -7px;
-	margin-bottom: 22px;	
+	margin-bottom: 22px;
 	display: inline-block;
 }
 
@@ -934,7 +916,7 @@ footer p {
 	line-height: 1.4;
 	letter-spacing: 0;
 	text-rendering: auto;
-	color: #333;	
+	color: #333;
 }
 
 .video {
@@ -1129,55 +1111,55 @@ code {
 ===================================================================================================*/
 	/* Smaller than standard 960 (devices and browsers) */
 	@media only screen and (max-width: 959px) {
-		
+
 		nav ul li a, nav ul li button, nav ul li span, #detailViewBack {
 			font-size: 14px;
 		}
-		
+
 		nav {
 			padding-top: 45px;
 		}
-		
+
 	}
 
 	/* Tablet portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
-		
+
 		.projectThumbnailHover h4 {
 			font-size: 18px;
 		}
-		
+
 		.projectThumbnailHover h5 {
 			font-size: 11px;
 			padding-top: 63px;
 		}
-		
+
 		#heroNav a {
 			font-size: 14px;
 		}
-		
+
 		#footerLinks li {
 			font-size: 13px;
 		}
-		
+
 	}
 
 	/* All mobile sizes (devices and browser) */
 	@media only screen and (max-width: 767px) {
-		
+
 		#logo h1 {
 			font-size: 30px;
 			line-height: 1.1;
 		}
-		
+
 		#logo h2 {
 			margin-top: -12px;
 		}
-		
+
 		header {
 			padding-top: 40px;
 		}
-		
+
 		nav {
 			float: left;
 			clear: both;
@@ -1187,19 +1169,19 @@ code {
 			padding-bottom: 0px;
 			margin-bottom: -10px;
 		}
-		
+
 		#overview {
 			padding-bottom: 0px;
 		}
-		
+
 		.project {
 			margin-bottom: 30px;
 		}
-		
+
 		footer p {
 			font-size: 14px;
 		}
-		
+
 		#content #heroNav ul li {
 			display: block;
 			padding-left: 0;
@@ -1207,11 +1189,11 @@ code {
 			border-right: none;
 			line-height: 2.0;
 		}
-		
+
 		#heroNav ul {
 			text-align: left;
 		}
-		
+
 		#footerLinks li {
 			display: block;
 			padding-left: 0;
@@ -1219,22 +1201,22 @@ code {
 			border-right: none;
 			padding-bottom: 8px;
 		}
-		
+
 		#footerLinks ul {
 			text-align: left;
 		}
-		
+
 		/* Add back border to last child of first column */
 		.eight:nth-child(4n) .contentModule:last-child, .eight:nth-of-type(1) .contentModule:last-child {
 			border-bottom: 1px solid #dddddd;
-			
+
 		}
-			
+
 	}
 
 	/* Mobile landscape size to tablet portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
-		
+
 	}
 
 	/* Mobile portrait size to mobile landscape size (devices and browsers) */
@@ -1246,26 +1228,26 @@ code {
 		#logo h1 {
 			font-size: 30px;
 		}
-		
+
 		#logo h2 {
 			font-size: 14px;
 			margin-top: -10px;
 		}
-		
+
 		#overview h3 {
-			font-size: 24px;	
+			font-size: 24px;
 			display: block
 		}
-		
+
 		.projectThumbnailHover h4 {
 			font-size: 14px;
 		}
-		
+
 		.projectThumbnailHover h5 {
 			font-size: 11px;
 			padding-top: 58px;
 		}
-		
+
 	}
 
 /*===================================================================================================

@@ -8,12 +8,10 @@
 	</head>
 <body>
 
-{{>preload}}
-
 <div class="container">
-	
+
 	{{>header}}
-	
+
 	<div id="overview" data-option-key="filter" class="sixteen columns">
 		<h3><a href="#filter" data-filter="*" class="selected">{{{title}}}</a></h3>
 		<a href="#filter" data-filter=".rosa">Il Sogno di Rosa</a>
@@ -23,7 +21,7 @@
 		<hr />
 	</div>
 
-	
+
 	<div id="creations" class="sixteen columns">
 		{{#creations}}
 			<a href="{{url}}" data-fancybox-group="gallery-{{group}}" title="{{creation}}" data-title="{{title}}" class="project fancybox column one-third {{group}}">
@@ -32,13 +30,13 @@
 						<h4>{{creation}}</h4>
 						<h5>{{title}}</h5>
 					</div>
-					
+
 					<img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
 				</div>
 			</a>
 		{{/creations}}
 	</div>
-	
+
 	{{>footer}}
 </body>
 </html>

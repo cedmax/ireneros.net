@@ -8,9 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "./node_modules/.bin/punch generate",
-    "serve": "./node_modules/.bin/punch server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "live": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
+    "build": "./node_modules/punch/bin/punch g --blank"
   },
   "repository": {
     "type": "git",
