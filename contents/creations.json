@@ -4,8 +4,8 @@
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/machine.jpg",
-			"thumb": "/images/creations/thumbs/marcel/machine.jpg",
+			"url": "/images/creations/marcel/v1/machine.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/machine.jpg",
 			"title": "Machine"
 		},
 		{
@@ -67,8 +67,8 @@
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/newspapers.jpg",
-			"thumb": "/images/creations/thumbs/marcel/newspapers.jpg",
+			"url": "/images/creations/marcel/v1/newspapers.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/newspapers.jpg",
 			"title": "Newspapers"
 		},
 		{
@@ -81,15 +81,15 @@
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/beauty_salon.jpg",
-			"thumb": "/images/creations/thumbs/marcel/beauty_salon.jpg",
+			"url": "/images/creations/marcel/v1/beauty_salon.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/beauty_salon.jpg",
 			"title": "Beauty Salon"
 		},
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/army.jpg",
-			"thumb": "/images/creations/thumbs/marcel/army.jpg",
+			"url": "/images/creations/marcel/v1/army.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/army.jpg",
 			"title": "Army"
 		},
 		{
@@ -130,23 +130,72 @@
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/general.jpg",
-			"thumb": "/images/creations/thumbs/marcel/general.jpg",
+			"url": "/images/creations/marcel/v1/general.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/general.jpg",
 			"title": "General"
 		},
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
 			"url": "https://vimeo.com/107247689",
-			"thumb": "/images/creations/thumbs/marcel/grosz.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/grosz.jpg",
 			"title": "Video"
 		},
 		{
 			"creation": "Marcel vol. 1",
 			"group": "marcel",
-			"url": "/images/creations/marcel/rev.jpg",
-			"thumb": "/images/creations/thumbs/marcel/rev.jpg",
+			"url": "/images/creations/marcel/v1/rev.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v1/rev.jpg",
 			"title": "Review"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/butchery.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/butchery.jpg",
+			"title": "Butchery"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/getting-emotional.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/getting-emotional.jpg",
+			"title": "Getting Emotional"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/on-the-beach.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/on-the-beach.jpg",
+			"title": "On the beach"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "https://vimeo.com/172879057",
+			"thumb": "/images/creations/thumbs/marcel/v2/public-vs-private.jpg",
+			"title": "Video"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/rev.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/rev.jpg",
+			"title": "Review"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/the-expert.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/the-expert.jpg",
+			"title": "The Expert"
+		},
+		{
+			"creation": "Marcel vol. 2",
+			"group": "marcel",
+			"url": "/images/creations/marcel/v2/under-the-sea.jpg",
+			"thumb": "/images/creations/thumbs/marcel/v2/under-the-sea.jpg",
+			"title": "Under the sea"
 		},
 		{
 			"creation": "Il Sogno di Rosa",
