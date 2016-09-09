@@ -70,7 +70,7 @@ $(window).load(function() {
 
 	hashCheck();
 
-	$('#overview').on( 'click', 'a', function(e) {
+	$('#overview').on( 'click', 'a[data-filter]', function(e) {
 		e.preventDefault();
 		var filterValue = $(this).attr('data-filter');
 		$container.isotope({ filter: filterValue });

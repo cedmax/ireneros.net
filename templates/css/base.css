@@ -654,7 +654,7 @@ nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul 
 	display: inline-block;
 }
 
-#overview h3, #overview a {
+#overview h3, #overview > a[data-filter] {
 	margin-right:10px;
 }
 
