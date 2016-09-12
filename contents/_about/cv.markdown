@@ -1,4 +1,4 @@
-[I](http://uk.linkedin.com/in/irenegk) started to study theatre in Bologna University in the XX century (impressive, isn't it?). After a few months I had already left Bologna to attend and acting workshop in Pontedera. After all, Bologna was not the centre of the world.
+[I](http://uk.linkedin.com/in/irenegk) started to study theatre in Bologna University in the XX century (impressive, isn't it?). After a few months I had already left Bologna to attend an acting workshop in Pontedera. After all, Bologna was not the centre of the world.
 
 That’s why I left for Holstebro (DK) to get inspired by Odin Teatret. After a heavy dinner, I dreamt about Hansel e Gretel’s witch house and I produced my first show for children.
 
