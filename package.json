@@ -1,21 +1,11 @@
 {
   "name": "irene",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "dependencies": {
     "punch": "^0.5.46"
   },
-  "devDependencies": {},
   "scripts": {
     "live": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
     "build": "./node_modules/punch/bin/punch g --blank"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@bitbucket.org/cedmax/irene.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/cedmax/irene#readme"
+  }
 }
