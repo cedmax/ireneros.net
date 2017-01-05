@@ -1,0 +1,5 @@
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/output/ 
+RewriteRule ^(.*)?$ output/$1 [L] 

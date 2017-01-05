@@ -6,6 +6,6 @@
   },
   "scripts": {
     "live": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
-    "build": "./node_modules/punch/bin/punch g --blank"
+    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
   }
 }
