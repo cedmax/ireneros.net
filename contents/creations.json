@@ -1,222 +1,264 @@
 {
-	"title": "Creations",
-	"creations": [
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/machine.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/machine.jpg",
-			"title": "Machine"
-		},
-		{
-			"creation": "La regina della neve",
-			"group": "regina",
-			"url": "/images/creations/regina/inizio_gioco.jpg",
-			"thumb": "/images/creations/thumbs/regina/inizio_gioco.jpg",
-			"title": "Inizio Gioco"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "/images/creations/curie/carrozza.jpg",
-			"thumb": "/images/creations/thumbs/curie/carrozza.jpg",
-			"title": "Carrozza"
-		},
-		{
-			"creation": "La regina della neve",
-			"group": "regina",
-			"url": "/images/creations/regina/corvo.jpg",
-			"thumb": "/images/creations/thumbs/regina/corvo.jpg",
-			"title": "Corvo"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "https://vimeo.com/16336939",
-			"thumb": "/images/creations/thumbs/rosa/rottura.jpg",
-			"title": "Video"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "/images/creations/curie/x.jpg",
-			"thumb": "/images/creations/thumbs/curie/x.jpg",
-			"title": "X"
-		},
-		{
-			"creation": "La regina della neve",
-			"group": "regina",
-			"url": "/images/creations/regina/DL.jpg",
-			"thumb": "/images/creations/thumbs/regina/DL.jpg",
-			"title": "Donna Lapponia"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "https://vimeo.com/34330423",
-			"thumb": "/images/creations/thumbs/curie/lettere.jpg",
-			"title": "Video"
-		},
-		{
-			"creation": "La regina della neve",
-			"group": "regina",
-			"url": "https://vimeo.com/38395704",
-			"thumb": "/images/creations/thumbs/regina/bosco.jpg",
-			"title": "Video"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/newspapers.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/newspapers.jpg",
-			"title": "Newspapers"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/statura.jpg",
-			"thumb": "/images/creations/thumbs/rosa/statura.jpg",
-			"title": "Statura"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/beauty_salon.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/beauty_salon.jpg",
-			"title": "Beauty Salon"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/army.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/army.jpg",
-			"title": "Army"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/papere.jpg",
-			"thumb": "/images/creations/thumbs/rosa/papere.jpg",
-			"title": "Papere"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "/images/creations/curie/hiroshima.jpg",
-			"thumb": "/images/creations/thumbs/curie/hiroshima.jpg",
-			"title": "Hiroshima"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "/images/creations/curie/pierre.jpg",
-			"thumb": "/images/creations/thumbs/curie/pierre.jpg",
-			"title": "Pierre"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/causa_operaia.jpg",
-			"thumb": "/images/creations/thumbs/rosa/causa_operaia.jpg",
-			"title": "Causa Operaia"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/leipziger_volkzeitung.jpg",
-			"thumb": "/images/creations/thumbs/rosa/leipziger_volkzeitung.jpg",
-			"title": "Leipziger Volkzeitung"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/general.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/general.jpg",
-			"title": "General"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "https://vimeo.com/107247689",
-			"thumb": "/images/creations/thumbs/marcel/v1/grosz.jpg",
-			"title": "Video"
-		},
-		{
-			"creation": "Marcel vol. 1",
-			"group": "marcel",
-			"url": "/images/creations/marcel/v1/rev.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v1/rev.jpg",
-			"title": "Review"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/butchery.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/butchery.jpg",
-			"title": "Butchery"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/getting-emotional.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/getting-emotional.jpg",
-			"title": "Getting Emotional"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/on-the-beach.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/on-the-beach.jpg",
-			"title": "On the beach"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "https://vimeo.com/172879057",
-			"thumb": "/images/creations/thumbs/marcel/v2/public-vs-private.jpg",
-			"title": "Video"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/rev.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/rev.jpg",
-			"title": "Review"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/the-expert.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/the-expert.jpg",
-			"title": "The Expert"
-		},
-		{
-			"creation": "Marcel vol. 2",
-			"group": "marcel2",
-			"url": "/images/creations/marcel/v2/under-the-sea.jpg",
-			"thumb": "/images/creations/thumbs/marcel/v2/under-the-sea.jpg",
-			"title": "Under the sea"
-		},
-		{
-			"creation": "Il Sogno di Rosa",
-			"group": "rosa",
-			"url": "/images/creations/rosa/rev.jpg",
-			"thumb": "/images/creations/thumbs/rosa/rev.jpg",
-			"title": "Review"
-		},
-		{
-			"creation": "La regina della neve",
-			"group": "regina",
-			"url": "/images/creations/regina/rev.jpg",
-			"thumb": "/images/creations/thumbs/regina/rev.jpg",
-			"title": "Review"
-		},
-		{
-			"creation": "Quella Luce Blu",
-			"group": "curie",
-			"url": "/images/creations/curie/rev.jpg",
-			"thumb": "/images/creations/thumbs/curie/rev.jpg",
-			"title": "Review"
-		}
-	]
+  "title": "Creations",
+  "creations": [
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/collectivity_and_hidden_beauty.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/collectivity_and_hidden_beauty.jpg",
+      "title": "Collectivity and hidden beauty"
+    },
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/panoramic.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/panoramic.jpg",
+      "title": "Panoramic"
+    },
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/uncomfortable.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/uncomfortable.jpg",
+      "title": "Uncomfortable"
+    },
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/voice_to_heal_pain.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/voice_to_heal_pain.jpg",
+      "title": "Voice to heal pain"
+    },
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/wall_of_women.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/wall_of_women.jpg",
+      "title": "Wall of women"
+    },
+    {
+      "creation": "Kobietostan",
+      "group": "kobietostan",
+      "url": "/images/creations/kobietostan/war.jpg",
+      "thumb": "/images/creations/thumbs/kobietostan/war.jpg",
+      "title": "War"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/machine.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/machine.jpg",
+      "title": "Machine"
+    },
+    {
+      "creation": "La regina della neve",
+      "group": "regina",
+      "url": "/images/creations/regina/inizio_gioco.jpg",
+      "thumb": "/images/creations/thumbs/regina/inizio_gioco.jpg",
+      "title": "Inizio Gioco"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "/images/creations/curie/carrozza.jpg",
+      "thumb": "/images/creations/thumbs/curie/carrozza.jpg",
+      "title": "Carrozza"
+    },
+    {
+      "creation": "La regina della neve",
+      "group": "regina",
+      "url": "/images/creations/regina/corvo.jpg",
+      "thumb": "/images/creations/thumbs/regina/corvo.jpg",
+      "title": "Corvo"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "https://vimeo.com/16336939",
+      "thumb": "/images/creations/thumbs/rosa/rottura.jpg",
+      "title": "Video"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "/images/creations/curie/x.jpg",
+      "thumb": "/images/creations/thumbs/curie/x.jpg",
+      "title": "X"
+    },
+    {
+      "creation": "La regina della neve",
+      "group": "regina",
+      "url": "/images/creations/regina/DL.jpg",
+      "thumb": "/images/creations/thumbs/regina/DL.jpg",
+      "title": "Donna Lapponia"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "https://vimeo.com/34330423",
+      "thumb": "/images/creations/thumbs/curie/lettere.jpg",
+      "title": "Video"
+    },
+    {
+      "creation": "La regina della neve",
+      "group": "regina",
+      "url": "https://vimeo.com/38395704",
+      "thumb": "/images/creations/thumbs/regina/bosco.jpg",
+      "title": "Video"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/newspapers.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/newspapers.jpg",
+      "title": "Newspapers"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "/images/creations/rosa/statura.jpg",
+      "thumb": "/images/creations/thumbs/rosa/statura.jpg",
+      "title": "Statura"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/beauty_salon.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/beauty_salon.jpg",
+      "title": "Beauty Salon"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/army.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/army.jpg",
+      "title": "Army"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "/images/creations/rosa/papere.jpg",
+      "thumb": "/images/creations/thumbs/rosa/papere.jpg",
+      "title": "Papere"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "/images/creations/curie/hiroshima.jpg",
+      "thumb": "/images/creations/thumbs/curie/hiroshima.jpg",
+      "title": "Hiroshima"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "/images/creations/curie/pierre.jpg",
+      "thumb": "/images/creations/thumbs/curie/pierre.jpg",
+      "title": "Pierre"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "/images/creations/rosa/causa_operaia.jpg",
+      "thumb": "/images/creations/thumbs/rosa/causa_operaia.jpg",
+      "title": "Causa Operaia"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "/images/creations/rosa/leipziger_volkzeitung.jpg",
+      "thumb": "/images/creations/thumbs/rosa/leipziger_volkzeitung.jpg",
+      "title": "Leipziger Volkzeitung"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/general.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/general.jpg",
+      "title": "General"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "https://vimeo.com/107247689",
+      "thumb": "/images/creations/thumbs/marcel/v1/grosz.jpg",
+      "title": "Video"
+    },
+    {
+      "creation": "Marcel vol. 1",
+      "group": "marcel",
+      "url": "/images/creations/marcel/v1/rev.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v1/rev.jpg",
+      "title": "Review"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/butchery.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/butchery.jpg",
+      "title": "Butchery"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/getting-emotional.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/getting-emotional.jpg",
+      "title": "Getting Emotional"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/on-the-beach.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/on-the-beach.jpg",
+      "title": "On the beach"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "https://vimeo.com/172879057",
+      "thumb": "/images/creations/thumbs/marcel/v2/public-vs-private.jpg",
+      "title": "Video"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/rev.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/rev.jpg",
+      "title": "Review"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/the-expert.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/the-expert.jpg",
+      "title": "The Expert"
+    },
+    {
+      "creation": "Marcel vol. 2",
+      "group": "marcel2",
+      "url": "/images/creations/marcel/v2/under-the-sea.jpg",
+      "thumb": "/images/creations/thumbs/marcel/v2/under-the-sea.jpg",
+      "title": "Under the sea"
+    },
+    {
+      "creation": "Il Sogno di Rosa",
+      "group": "rosa",
+      "url": "/images/creations/rosa/rev.jpg",
+      "thumb": "/images/creations/thumbs/rosa/rev.jpg",
+      "title": "Review"
+    },
+    {
+      "creation": "La regina della neve",
+      "group": "regina",
+      "url": "/images/creations/regina/rev.jpg",
+      "thumb": "/images/creations/thumbs/regina/rev.jpg",
+      "title": "Review"
+    },
+    {
+      "creation": "Quella Luce Blu",
+      "group": "curie",
+      "url": "/images/creations/curie/rev.jpg",
+      "thumb": "/images/creations/thumbs/curie/rev.jpg",
+      "title": "Review"
+    }
+  ]
 }
