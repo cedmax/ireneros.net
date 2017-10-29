@@ -2,10 +2,14 @@
   "name": "irene",
   "version": "1.0.0",
   "dependencies": {
-    "punch": "^0.5.46"
+    "punch": "^0.5.46",
+    "snyk": "^1.46.0"
   },
   "scripts": {
     "live": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
-    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
-  }
+    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
