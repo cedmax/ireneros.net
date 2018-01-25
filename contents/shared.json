@@ -1,9 +1,9 @@
 {
-	"site-title": "Irene Ros",
-	"tagline": "Theatre Director",
-	"navbar": [
-		{"href": "visions.html", "text":"visions"},
-		{"href": "creations.html", "text":"creations"},
-		{"href": "about.html", "text":"about me"}
-	]
+  "site-title": "Irene Ros",
+  "tagline": "Theatre Director & Multimedia Artist",
+  "navbar": [
+    {"href": "visions.html", "text":"visions"},
+    {"href": "creations.html", "text":"creations"},
+    {"href": "about.html", "text":"about me"}
+  ]
 }
