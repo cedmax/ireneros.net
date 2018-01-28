@@ -14,18 +14,16 @@
 
   <div id="overview" data-option-key="filter" class="sixteen columns">
     <h3><a href="#filter" data-filter="*" class="selected">{{{title}}}</a></h3>
+    <a href="#filter" data-filter=".younow">You now - who will drink the tea?</a>
+    <a href="#filter" data-filter=".pierced">Pierced</a>
     <a href="#filter" data-filter=".kobietostan">Kobietostan</a>
-    <a href="#filter" data-filter=".marcel2">Marcel vol. 2</a>
-    <a href="#filter" data-filter=".marcel">Marcel vol. 1</a>
-    <a href="#filter" data-filter=".regina">La regina della neve</a>
-    <a href="#filter" data-filter=".curie">Quella luce blu</a>
-    <a href="#filter" data-filter=".rosa">Il Sogno di Rosa</a>
+
     <hr />
   </div>
 
 
   <div id="creations" class="sixteen columns">
-    {{#creations}}
+    {{#items}}
       <a href="{{url}}" data-fancybox-group="gallery-{{group}}" title="{{creation}}" data-title="{{title}}" class="project fancybox column one-third {{group}}">
         <div class="projectThumbnail">
           <div class="projectThumbnailHover">
@@ -36,7 +34,7 @@
           <img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
         </div>
       </a>
-    {{/creations}}
+    {{/items}}
   </div>
 
   {{>footer}}

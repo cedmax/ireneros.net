@@ -1,48 +1,6 @@
 {
-  "title": "Creations",
-  "creations": [
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "https://vimeo.com/198248967",
-      "thumb": "/images/creations/thumbs/kobietostan/video.jpg",
-      "title": "Video"
-    },
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "/images/creations/kobietostan/collectivity_and_hidden_beauty.jpg",
-      "thumb": "/images/creations/thumbs/kobietostan/collectivity_and_hidden_beauty.jpg",
-      "title": "Collectivity and hidden beauty"
-    },
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "/images/creations/kobietostan/panoramic.jpg",
-      "thumb": "/images/creations/thumbs/kobietostan/panoramic.jpg",
-      "title": "Panoramic"
-    },
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "/images/creations/kobietostan/uncomfortable.jpg",
-      "thumb": "/images/creations/thumbs/kobietostan/uncomfortable.jpg",
-      "title": "Uncomfortable"
-    },
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "/images/creations/kobietostan/voice_to_heal_pain.jpg",
-      "thumb": "/images/creations/thumbs/kobietostan/voice_to_heal_pain.jpg",
-      "title": "Voice to heal pain"
-    },
-    {
-      "creation": "Kobietostan",
-      "group": "kobietostan",
-      "url": "/images/creations/kobietostan/war.jpg",
-      "thumb": "/images/creations/thumbs/kobietostan/war.jpg",
-      "title": "War"
-    },
+  "title": "Performance",
+  "items": [
     {
       "creation": "Marcel vol. 1",
       "group": "marcel",
@@ -126,13 +84,6 @@
       "url": "/images/creations/rosa/papere.jpg",
       "thumb": "/images/creations/thumbs/rosa/papere.jpg",
       "title": "Papere"
-    },
-    {
-      "creation": "Quella Luce Blu",
-      "group": "curie",
-      "url": "/images/creations/curie/hiroshima.jpg",
-      "thumb": "/images/creations/thumbs/curie/hiroshima.jpg",
-      "title": "Hiroshima"
     },
     {
       "creation": "Quella Luce Blu",

@@ -1,18 +1,18 @@
 {
-	"quote":"“I want to affect people like a clap of thunder, to inflame their minds not by speechifying but with the breadth of my vision, the strength of my conviction and the power of my expression.” <span>― Rosa Luxemburg</span>",
-	"sections": [
-		{
-			"url": "/visions.html",
-			"thumb": "/images/_visions.jpg",
-			"title": "Visions",
-			"description": "How I see things"
-		},
-		{
-			"url": "/creations.html",
-			"thumb": "/images/_creations.jpg",
-			"title": "Creations",
-			"description": "How you could see my things"
-		}
-	]
+  "quote":"“I want to affect people like a clap of thunder, to inflame their minds not by speechifying but with the breadth of my vision, the strength of my conviction and the power of my expression.” <span>― Rosa Luxemburg</span>",
+  "sections": [
+    {
+      "url": "/performance.html",
+      "thumb": "/images/performance.jpg",
+      "title": "Performance",
+      "description": "Editing actions"
+    },
+    {
+      "url": "/multimedia.html",
+      "thumb": "/images/multimedia.jpg",
+      "title": "Multimedia",
+      "description": "Editing images"
+    }
+  ]
 }
 
