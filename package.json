@@ -9,7 +9,7 @@
     "uglify-js": "2.2.3"
   },
   "scripts": {
-    "live": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
+    "start": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
     "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
   }
 }
