@@ -1,1 +1,1 @@
-[Cut Moose](http://cutmoose.com) is a new collaboration founded by puppeteer Helen Ainsworth and myself. The collaboration is dedicated to creating thought provoking theatre that is visually stimulating, essentially entertaining and often surreal. 
+[Cut Moose](http://cutmoose.com) is a new charity founded by puppeteer Helen Ainsworth and myself. The collaboration is dedicated to creating thought provoking theatre that is visually stimulating, essentially entertaining and often surreal. 
