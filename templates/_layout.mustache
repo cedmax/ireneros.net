@@ -3,34 +3,34 @@
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
-	<head>
-		{{>head}}
-	</head>
+  <head>
+    {{>head}}
+  </head>
 <body>
 
 <div class="container">
 
-	{{>header}}
+  {{>header}}
 
 
-	{{#sections}}
-		<a href="{{url}}" class="project eight columns">
-			<div class="projectThumbnail">
-				<div class="projectThumbnailHover">
-					<h4>{{title}}</h4>
-					<h5>{{description}}</h5>
-				</div>
-				<img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
-			</div>
-		</a>
-	{{/sections}}
+  {{#sections}}
+    <a href="{{url}}" class="project eight columns">
+      <div class="projectThumbnail">
+        <div class="projectThumbnailHover">
+          <h4>{{title}}</h4>
+          <h5>{{description}}</h5>
+        </div>
+        <img src="{{thumb}}" alt="{{title}}" class="thumbnailImage" />
+      </div>
+    </a>
+  {{/sections}}
 
-	<hr />
+  <hr />
 
-	<div id="overview" class="sixteen columns">
-		<h3>{{{quote}}}</h3>
-	</div>
+  <div id="overview" class="sixteen columns">
+    {{{quote}}}
+  </div>
 
-	{{>footer}}
+  {{>footer}}
 </body>
 </html>

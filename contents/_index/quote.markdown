@@ -1,0 +1,1 @@
+<blockquote>“I want to affect people like a clap of thunder, to inflame their minds not by speechifying but with the breadth of my vision, the strength of my conviction and the power of my expression.” <cite>Rosa Luxemburg</cite></blockquote>
