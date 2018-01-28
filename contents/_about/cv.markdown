@@ -2,7 +2,7 @@
 
 That’s why I left for Holstebro (DK) to get inspired by Odin Teatret. After a heavy dinner, I dreamt about Hansel e Gretel’s witch house and I produced my first show for children.
 
-In summer 2002 I saw 'The Seagull' in the Venice Biennale and I fell in love. Two years later I finally landed in Lithuania, to observe Eimuntas Nekrošius’ work. Clearly my degrees thesis was about them: “L’Attualità della polvere: Cechov nel teatro di Nekrošius” (The actuality of dust: Cechov in Nekrošius’ theatre). Back from Lithuania, I produced my first two performance for adults.
+In summer 2002 I saw 'The Seagull' in the Venice Biennale and I fell in love. Two years later I finally landed in Lithuania, to observe Eimuntas Nekrošius’ work. Clearly my BA dissertation was about them: “L’Attualità della polvere: Cechov nel teatro di Nekrošius” (The actuality of dust: Cechov in Nekrošius’ theatre). Back from Lithuania, I produced my first two performances for adults.
 
 In 2007 I had my first son, I realised that we were inseparable and I decided to quit acting to dedicate myself to my own projects as a director. 
 
