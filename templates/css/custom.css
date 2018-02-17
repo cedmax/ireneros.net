@@ -9,6 +9,42 @@
   font-style: normal;
 }
 
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 400px;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+header nav li {
+  padding: 0;
+  display: flex;
+}
+header nav li img{
+  width: 20px;
+  display: block;
+}
+header nav li a {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header nav li svg {
+  width: 20px;
+}
+
+@media (max-width: 480px) {
+  header nav li:last-child {
+    margin-left: auto;
+  }  
+  header nav li img {
+    margin-left: 5px
+  }
+}
+
 #overview h3 span {
   font-size: 50%;
 }
