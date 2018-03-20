@@ -16,13 +16,6 @@
       "title": "Inizio Gioco"
     },
     {
-      "creation": "Quella Luce Blu",
-      "group": "curie",
-      "url": "/images/creations/curie/carrozza.jpg",
-      "thumb": "/images/creations/thumbs/curie/carrozza.jpg",
-      "title": "Carrozza"
-    },
-    {
       "creation": "La regina della neve",
       "group": "regina",
       "url": "/images/creations/regina/corvo.jpg",
@@ -37,18 +30,18 @@
       "title": "Video"
     },
     {
-      "creation": "La regina della neve",
-      "group": "regina",
-      "url": "/images/creations/regina/DL.jpg",
-      "thumb": "/images/creations/thumbs/regina/DL.jpg",
-      "title": "Donna Lapponia"
+      "creation": "I*LTS",
+      "group": "ilts",
+      "url": "https://vimeo.com/203454129",
+      "thumb": "/images/creations/thumbs/ilts/ilts.jpg",
+      "title": "Video"
     },
     {
       "creation": "Quella Luce Blu",
       "group": "curie",
-      "url": "https://vimeo.com/34330423",
+      "url": "/images/creations/curie/lettere.jpg",
       "thumb": "/images/creations/thumbs/curie/lettere.jpg",
-      "title": "Video"
+      "title": "Lettere"
     },
     {
       "creation": "Marcel vol. 1",
@@ -79,13 +72,6 @@
       "title": "Army"
     },
     {
-      "creation": "Il Sogno di Rosa",
-      "group": "rosa",
-      "url": "/images/creations/rosa/papere.jpg",
-      "thumb": "/images/creations/thumbs/rosa/papere.jpg",
-      "title": "Papere"
-    },
-    {
       "creation": "Quella Luce Blu",
       "group": "curie",
       "url": "/images/creations/curie/pierre.jpg",
@@ -98,13 +84,6 @@
       "url": "/images/creations/rosa/causa_operaia.jpg",
       "thumb": "/images/creations/thumbs/rosa/causa_operaia.jpg",
       "title": "Causa Operaia"
-    },
-    {
-      "creation": "Il Sogno di Rosa",
-      "group": "rosa",
-      "url": "/images/creations/rosa/leipziger_volkzeitung.jpg",
-      "thumb": "/images/creations/thumbs/rosa/leipziger_volkzeitung.jpg",
-      "title": "Leipziger Volkzeitung"
     },
     {
       "creation": "Marcel vol. 1",
@@ -163,11 +142,11 @@
       "title": "Review"
     },
     {
-      "creation": "Marcel vol. 2",
-      "group": "marcel2",
-      "url": "/images/creations/marcel/v2/the-expert.jpg",
-      "thumb": "/images/creations/thumbs/marcel/v2/the-expert.jpg",
-      "title": "The Expert"
+      "creation": "God save the tea",
+      "group": "god-save-tea",
+      "url": "https://vimeo.com/260133318",
+      "thumb": "/images/creations/thumbs/tea/tea.jpg",
+      "title": "Video"
     },
     {
       "creation": "Marcel vol. 2",
