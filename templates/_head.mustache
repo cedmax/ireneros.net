@@ -4,12 +4,16 @@
 <meta name="author" content="{{site-title}}">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700">
+<link rel="stylesheet" type="text/css" media="screen" href="//fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700">
 {{#stylesheet_bundle}}/css/style.css{{/stylesheet_bundle}}
 
 <!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <link rel="shortcut icon" href="/images/favicon.ico">
+
+<meta property="og:title" content="{{site-title}}" />
+<meta property="og:description" content="{{tagline}}" />
+{{#mainImage}}<meta property="og:image" content="https://ireneros.net{{url}}">{{/mainImage}}
 
 {{#javascript_bundle}}/js/scripts.js{{/javascript_bundle}}

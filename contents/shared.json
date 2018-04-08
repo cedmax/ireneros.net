@@ -1,14 +1,29 @@
 {
-  "site-title": "Irene Ros",
-  "tagline": "Theatre Director & Multimedia Artist",
   "navbar": [
-    {"href": "performance.html", "text":"performance"},
-    {"href": "multimedia.html", "text":"multimedia"},
-    {"href": "about.html", "text":"about me"}
-  ], 
+    {
+      "href": "performance.html",
+      "text": "performance"
+    },
+    {
+      "href": "multimedia.html",
+      "text": "multimedia"
+    },
+    {
+      "href": "about.html",
+      "text": "about me"
+    }
+  ],
   "social": [
-    { "type": "twitter", "href": "https://twitter.com/geliukiemas"},
-    { "type": "instagram", "href": "https://instagram.com/geliukiemas"},
-    { "type": "email" }
+    {
+      "type": "twitter",
+      "href": "https://twitter.com/geliukiemas"
+    },
+    {
+      "type": "instagram",
+      "href": "https://instagram.com/geliukiemas"
+    },
+    {
+      "type": "email"
+    }
   ]
 }

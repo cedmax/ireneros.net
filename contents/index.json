@@ -2,16 +2,13 @@
   "sections": [
     {
       "url": "/performance.html",
-      "thumb": "/images/performance.jpg",
       "title": "Performance",
       "description": "Editing actions"
     },
     {
       "url": "/multimedia.html",
-      "thumb": "/images/multimedia.jpg",
       "title": "Multimedia",
       "description": "Editing images"
     }
   ]
 }
-

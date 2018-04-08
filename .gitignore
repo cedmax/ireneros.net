@@ -1,2 +1,6 @@
+.env
 npm-debug.log
 node_modules
+output/*
+templates/images/content/*
+contents/_*/*
