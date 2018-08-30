@@ -45,7 +45,6 @@ $(document).ready(function()
 $(window).load(function() {
   $container = $("#creations").isotope({
     animationEngine: 'jquery',
-    sortBy: 'random',
     itemSelector : '.project',
     layoutMode: 'masonry',
     animationOptions: {
@@ -59,9 +58,9 @@ $(window).load(function() {
     var hash = window.location.hash.substring(1).replace(/creation\/all/, '*').replace(/creation\//, '')
 
     if (hash) {
-        $container.isotope({
-            filter: (hash=="*")?hash:'.' + hash
-        });
+      $container.isotope({
+        filter: (hash=="*")?hash:'.' + hash
+      });
     }
   }
 
