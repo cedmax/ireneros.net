@@ -132,3 +132,17 @@ blockquote cite {display: inline}
 #overview blockquote { 
   padding-bottom: 25px;
 }
+
+#overview a[data-filter] {
+  white-space: pre;
+  text-decoration: none;
+  margin-right:10px;  
+}
+
+#overview a[data-filter]:hover, #overview a[data-filter].selected {
+  text-decoration: underline;
+}
+
+.filters {
+  margin: -15px 5px 33px
+}

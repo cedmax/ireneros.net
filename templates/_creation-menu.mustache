@@ -1,4 +1,7 @@
-<h3><a href="#filter" data-filter="*" class="selected">{{{title}}}</a></h3>
-{{#menu}}
-  <a href="#filter" data-filter=".{{slug}}">{{title}}</a>
-{{/menu}}
+<h3>{{{title}}}</h3>
+<div class="filters">
+  <a href="#filter" data-filter="*" class="selected">All</a>
+  {{#menu}}
+    <a href="#filter" data-filter=".{{slug}}">{{title}}</a>
+  {{/menu}}
+</div>

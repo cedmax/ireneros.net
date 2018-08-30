@@ -60,6 +60,11 @@ $(document).ready(function () {
   }
 })
 
+function resetClass(newSelection) {
+  $('a[data-filter]').removeClass('selected')
+  $(newSelection).addClass('selected')
+}
+
 $(window).load(function () {
   $container = $('#creations').isotope({
     animationEngine: 'jquery',
@@ -79,8 +84,10 @@ $(window).load(function () {
       .replace(/creation\//, '')
 
     if (hash) {
+      var filter = hash == '*' ? hash : '.' + hash
+      resetClass($('a[data-filter="'+ filter+ '"]'))
       $container.isotope({
-        filter: hash == '*' ? hash : '.' + hash
+        filter: filter
       })
     }
   }
@@ -93,6 +100,7 @@ $(window).load(function () {
     e.preventDefault()
     var filterValue = $(this).attr('data-filter')
     $container.isotope({ filter: filterValue })
+    resetClass(this)
     window.location.hash =
       'creation/' + filterValue.replace('*', 'all').replace('.', '')
   })
