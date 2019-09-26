@@ -6,7 +6,7 @@
     },
     {
       "href": "multimedia.html",
-      "text": "multimedia"
+      "text": "other"
     },
     {
       "href": "about.html",
@@ -25,5 +25,11 @@
     {
       "type": "email"
     }
-  ]
+  ],
+  "site-title": "Irene Ros",
+  "tagline": "Theatre Director & Multimedia Artist",
+  "mainImage": {
+    "url": "/images/content/main_Con bambini pixelati.jpg",
+    "thumb": "/images/content/thumb_main_Con bambini pixelati.jpg"
+  }
 }
