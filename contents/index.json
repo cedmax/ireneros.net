@@ -3,12 +3,14 @@
     {
       "url": "/performance.html",
       "title": "Performance",
-      "description": "Editing actions"
+      "description": "Editing actions",
+      "slug": "performance"
     },
     {
       "url": "/multimedia.html",
       "title": "Other",
-      "description": "Editing images"
+      "description": "Editing images",
+      "slug": "multimedia"
     }
   ]
 }
