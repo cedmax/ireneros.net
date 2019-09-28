@@ -14,7 +14,7 @@ header nav ul {
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 10px;
-  width: 400px;
+  width: 350px;
   max-width: 100%;
   min-width: 100%;
 }
@@ -37,11 +37,24 @@ header nav li svg {
 }
 
 @media (max-width: 480px) {
+  header nav li {
+    padding-left: .5em
+  }
+  header nav ul {
+    justify-content: flex-start;
+  }
+
   header nav li:last-child {
     margin-left: auto;
+    padding-left: 0;
+    width: 100%;
   }  
+  
   header nav li img {
     margin-left: 5px
+  }
+  header nav li *:first-child img{
+    margin-left: 0
   }
 }
 
