@@ -1,9 +1,9 @@
 const fs = require("fs-extra");
 const download = require("image-downloader");
-
+const { documentToHtmlString } = require("@contentful/rich-text-html-renderer");
 const destructureImg = image => {
   const {
-    file: { url, fileName },
+    file: { url, fileName }
   } = image;
   return { url, fileName };
 };
@@ -15,19 +15,19 @@ async function saveImage(prefix, image, name) {
     : data.fileName;
   const options = {
     url: `http:${data.url}`,
-    dest: `./templates/images/content/${prefix}_${filename}`,
+    dest: `./templates/images/content/${prefix}_${filename}`
   };
 
   const thumbOptions = {
     url: `http:${data.url}?w=500`,
-    dest: `./templates/images/content/thumb_${prefix}_${filename}`,
+    dest: `./templates/images/content/thumb_${prefix}_${filename}`
   };
 
   await download.image(options);
   await download.image(thumbOptions);
   return {
     url: `/images/content/${prefix}_${filename}`,
-    thumb: `/images/content/thumb_${prefix}_${filename}`,
+    thumb: `/images/content/thumb_${prefix}_${filename}`
   };
 }
 
@@ -41,7 +41,8 @@ async function creation(content, type) {
     fileContent.menu[item.slug] = {
       title: item.title,
       slug: item.slug,
-      order: item.order,
+      description: documentToHtmlString(item.description),
+      order: item.order
     };
 
     if (item.video) {
@@ -55,7 +56,7 @@ async function creation(content, type) {
         group: item.slug,
         url: item.video,
         thumb: image.thumb,
-        title: "Video",
+        title: "Video"
       });
     }
     if (item.images) {
@@ -66,7 +67,7 @@ async function creation(content, type) {
           group: item.slug,
           url: image.url,
           thumb: image.thumb,
-          title: contentFulImage.title,
+          title: contentFulImage.title
         });
       }
     }

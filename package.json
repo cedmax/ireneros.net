@@ -2,6 +2,7 @@
   "name": "irene",
   "version": "1.0.0",
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^13.4.0",
     "punch": "^0.5.46"
   },
   "resolutions": {
