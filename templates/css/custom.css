@@ -128,6 +128,7 @@ a.project[data-title="Video"]:before {
   position: absolute;
   width: 100%;
   height: 100%;
+  border-radius: 5px;
   background-color: rgba(0, 0, 0, 0.5);
   background-size: 30%;
   background-repeat: no-repeat;
